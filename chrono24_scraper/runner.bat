@@ -1,0 +1,1 @@
+scrapy crawl chrono24_spider

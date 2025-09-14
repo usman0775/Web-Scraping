@@ -1,0 +1,2 @@
+scrapy crawl ebay_spider
+pause
